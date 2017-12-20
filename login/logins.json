@@ -1,0 +1,27 @@
+{
+	"logins": [{
+			"Salt": "vw1MJA$sxfT|X:=nP>Yh",
+			"UserName": "Alice",
+			"operations": ["print", "queue", "topQueue", "start", "stop", "restart", "status", "readConfig", "setConfig"],
+			"Password": "f1cae22312bf3bbb69a880ed538f553e1bfca727a8c6137b267c6f8f912e57fb"
+		},
+		{
+			"Salt": "cYsIXt}2$2C0*2^>kay9",
+			"UserName": "BobBob",
+			"operations": ["start", "stop", "restart", "status", "readConfig", "setConfig"],
+			"Password": "557e44a40a651a5df24213adcb2ee29929ea128010f45dc749b6658325a994fd"
+		},
+		{
+			"Salt": "TozBBv2TUe+0.ho#2YPf",
+			"UserName": "Cecilia",
+			"operations": ["print", "queue", "topQueue", "restart"],
+			"Password": "1d8ba528af7fed80f5ce695f0204001eb556e88054acdb62bc99643203b47f83"
+		},
+		{
+			"Salt": "s\\7APl<1Z1};;oa*>CN$",
+			"UserName": "Erica",
+			"operations": ["print", "queue"],
+			"Password": "efc08fcb3b51576bbbeeb5d49ce5d092bfde00c29acf9ccafe5443bdce35afb0"
+		}
+	]
+}
